@@ -4,5 +4,4 @@
   2. Only Front-End Development using Bootstrap.
   3. Honor's Project - Coursera course
   
-## Click Here to visit the page.
-  https://mathesh-kumar.github.io/Banana-Leaf-Restaurant/
+## [Click Here](https://mathesh-kumar.github.io/Banana-Leaf-Restaurant/) to visit the page.
